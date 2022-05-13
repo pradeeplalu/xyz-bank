@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="smoke"
+           tests="4"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="6.968">
+  <properties />
+  
+  
+            <testcase name="customerShouldLoginAndLogoutSuceessfully" time="1.011" classname="com.bank.testsuite.BankTest" />
+                <testcase name="bankManagerShouldOpenAccountSuccessfully" time="2.833" classname="com.bank.testsuite.BankTest" />
+                <testcase name="customerShouldWithdrawMoneySuccessfully" time="1.472" classname="com.bank.testsuite.BankTest" />
+                <testcase name="customerShouldDepositMoneySuccessfully" time="1.652" classname="com.bank.testsuite.BankTest" />
+      
+</testsuite>
